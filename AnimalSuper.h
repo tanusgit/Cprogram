@@ -1,0 +1,1 @@
+void printCat(); // declaration
